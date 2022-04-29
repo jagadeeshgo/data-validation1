@@ -1,0 +1,9 @@
+{
+	"name": "datavalidationfactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d02b3b9-1326-4389-9f07-7502eea33ad8",
+		"tenantId": "3882b70d-a91e-468c-9928-820358bfbd73"
+	}
+}
